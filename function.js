@@ -1,4 +1,3 @@
-// Code By Webdevtrick ( https://webdevtrick.com )
 (function(){
   $('html').addClass('js');
   
